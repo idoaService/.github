@@ -86,7 +86,7 @@
 
 ### 2-2. 백엔드
 
-> (스택: 예시 – Spring Boot, OpenVidu 서버, Firebase Admin SDK 등)
+> (스택: – Spring Boot, OpenVidu 서버, Firebase Admin SDK 등)
 
 - **WebRTC 세션 관리**
   - OpenVidu v3와 연동된 **세션·토큰 발급 API**
@@ -111,7 +111,7 @@
 
 ### 2-3. AI · 모션 감지 파이프라인
 
-> (스택: 예시 – Python, OpenCV, YOLOv8)
+> (스택: – Python, OpenCV, YOLOv8)
 
 아이 움직임 감지는 **스트리밍 중인 프레임을 받아 분석 → 중요도에 따른 알림**으로 이어지는 구조입니다.
 
